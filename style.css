@@ -1,0 +1,27 @@
+* {
+  background-color: red;
+}
+#squre {
+  background-color: green;
+  width: 50%;
+
+  position: absolute;
+  height: 50%;
+  left: 25%;
+  right: 25%;
+  top: 25%;
+  
+  margin: auto;
+  padding: 10px;
+  
+  
+}
+#dot{
+color: yellow;
+  font-size: 50px;
+  text-align: center;
+  display: block;
+  padding: 70px 0;
+    background-color: green;
+
+}
